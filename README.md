@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justKamleshSingh
+- 👋 Hi, I’m @KamleshSingh
 - 👀 I’m interested in Web App Developmenet.
 - 🌱 I’m currently learning NextJS.
 - 💞️ I’m looking to collaborate on a javaScript Project.
